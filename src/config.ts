@@ -1,4 +1,5 @@
 export const siteConfig = {
+  base: "/devportfolio",
   name: "Anshool Yeruva",
   title: "Computer Science Student",
   description: "Portfolio website of Anshool Yeruva",
